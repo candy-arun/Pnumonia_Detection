@@ -1,0 +1,10 @@
+# Ignore dataset folder
+chest_xray/
+
+# Ignore model training notebook
+model.ipynb
+
+# Ignore any other large folders (optional)
+__pycache__/
+*.zip
+*.rar
